@@ -2,68 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2225506-3550-4851-8120-e3d5302689c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/images/blog-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/images/lofter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/images/top-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/images/top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/images/zhihu0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/languages/default.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/languages/zh-CN.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/archive.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/category.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/archive.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/article.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/baidu_analytics.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/categories.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/comment.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/footer.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/googleadsense.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/googleanalytics.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/head.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/header.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/pagination.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/sidebar.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/components/toc.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/layout.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/page.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/post.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/layout/tags.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/base/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/base/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/base/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/archive.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/article.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/categories.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/footer.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/header.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/icon.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/layout.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/pagination.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/responsive.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/search.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/sidebar.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/syntax.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/tags.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/components/toc.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/css/style.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/images/icon-heart.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/js/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/source/js/web-pinyin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Lap/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Lap/source/images/bg.jpg" afterPath="$PROJECT_DIR$/themes/Lap/source/images/bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Lap/source/images/blog-bg.jpg" afterPath="$PROJECT_DIR$/themes/Lap/source/images/blog-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -150,6 +94,11 @@
             <path>
               <item name="Tsingwu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tsingwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="scaffolds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tsingwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tsingwu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -162,12 +111,6 @@
               <item name="Tsingwu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tsingwu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tsingwu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tsingwu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="Lap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,12 +155,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534758291466</updated>
       <workItem from="1534758292810" duration="196000" />
-      <workItem from="1534758722515" duration="1460000" />
+      <workItem from="1534758722515" duration="2441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1656000" />
+    <option name="totallyTimeSpent" value="2637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
