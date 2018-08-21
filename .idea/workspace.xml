@@ -2,114 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2225506-3550-4851-8120-e3d5302689c1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/2018/08/20/hello-world/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/archives/2018/08/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/archives/2018/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/base/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/base/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/base/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/archive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/article.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/categories.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/header.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/icon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/search.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/sidebar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/syntax.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/tags.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/components/toc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/blog-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icon-heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/lofter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/top-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/zhihu0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/web-pinyin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scaffolds/draft.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scaffolds/page.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scaffolds/post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/languages/default.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/languages/zh-CN.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/archive.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/category.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/archive.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/article.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/baidu_analytics.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/categories.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/comment.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/footer.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/googleadsense.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/googleanalytics.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/head.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/header.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/pagination.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/sidebar.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/components/toc.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/index.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/layout.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/page.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/post.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/layout/tags.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/base/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/base/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/base/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/archive.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/article.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/categories.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/footer.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/header.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/icon.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/layout.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/pagination.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/responsive.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/search.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/sidebar.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/syntax.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/tags.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/components/toc.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/css/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/images/blog-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/images/icon-heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/images/lofter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/images/top-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/images/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/images/zhihu0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/source/js/web-pinyin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Lap/yarn.lock" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -122,7 +16,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -186,6 +91,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codes\Tsingwu.github.io" />
       <recent name="D:\codes\Tsingwu.github.io\themes\Lap" />
     </key>
   </component>
@@ -214,17 +120,18 @@
       <workItem from="1534758292810" duration="196000" />
       <workItem from="1534758722515" duration="4665000" />
       <workItem from="1534823045331" duration="68000" />
-      <workItem from="1534823907774" duration="11000" />
+      <workItem from="1534823907774" duration="713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4940000" />
+    <option name="totallyTimeSpent" value="5642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -321,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
